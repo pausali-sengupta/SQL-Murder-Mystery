@@ -1,6 +1,6 @@
 # SQL Murder Mystery
 
-This repository contains my solution to the [SQL Murder Mystery](https://mystery.knightlab.com/) challenge created by Northwestern University's Knight Lab. The case is a fictional murder mystery that you solve using SQL queries on a database of crime reports, interviews, check-ins, and personal records.
+This repository contains the solution to the [SQL Murder Mystery](https://mystery.knightlab.com/) challenge created by Northwestern University's Knight Lab. The case is a fictional murder mystery that we can solve using SQL queries on a database of crime reports, interviews, check-ins, and personal records.
 
 ## Objective
 
@@ -105,16 +105,3 @@ You solved the case! SQL City hails you as the greatest detective of all time.
 - Multi-table query design and efficient searching
 
 ---
-
-## Credits
-
-Challenge by [Knight Lab – SQL Murder Mystery](https://mystery.knightlab.com/)  
-Solution and write-up by [Kushal Gupta](https://github.com/guptakushal03)
-
----
-
-## 🚀 Try It Yourself
-
-Visit the original [SQL Murder Mystery](https://mystery.knightlab.com/) and start sleuthing!
-
-```
